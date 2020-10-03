@@ -2,4 +2,9 @@
 
 **Enunciado**
 
-Faça um programa solicite que o usuário digite seu nome. Exiba Olá, ___! (na lacuna ___ exiba o nome digitado). 
+Faça um programa solicite que o usuário digite seu nome. Exiba `Olá, ___! (na lacuna ___ exiba o nome digitado).` 
+
+
+**Como Execultar** 
+
+Digite o comando: `dotnet run`
